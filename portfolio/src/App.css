@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #3E3E3E;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around; 
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.section{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.profile-picture{
+  border-radius: 50%;
+}
+
+a:active {
+  color: white;
+}
+a:visited {
+  color:whitesmoke;
+}
+
+.odd{
+  background-color: #5e5e5e;
+}
+
+.even{
+  background-color: #aaaaaa;
+}
