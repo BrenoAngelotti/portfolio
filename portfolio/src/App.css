@@ -16,22 +16,57 @@
 }
 
 .section{
-  min-height: 100vh;
+  height: 100vh;
   display: flex;
   flex-direction: row;
   align-items: center;
+  flex-wrap: wrap;
   justify-content: space-around;
 }
 
+.side{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: left;
+}
+
+.card {
+  margin: 20px;
+  padding: 10px;
+  max-width: 300px;
+}
+
 .profile-picture{
+  max-width: 250px;
+  max-width: 250px;
   border-radius: 50%;
 }
 
+a {
+  color:whitesmoke;
+  text-decoration: none;
+}
 a:active {
-  color: white;
+  color: whitesmoke;
 }
 a:visited {
   color:whitesmoke;
+}
+
+a.button {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+
+  text-decoration: none;
+  color: initial;
+}
+
+ul{
+  text-align: left;
 }
 
 .odd{
@@ -40,4 +75,20 @@ a:visited {
 
 .even{
   background-color: #aaaaaa;
+}
+
+textarea {
+  resize: none;
+}
+
+.footer {
+  background-color: #202020;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around; 
+  font-size: calc(2vmin);
+  color: white;
 }

@@ -6,8 +6,12 @@ export class Nav extends Component{
       return (
         <div class="App-header">
           <a>{this.props.data.name}</a>
-          <a href="#Bio">Sobre mim</a>
+          <a href="#Bio">Home</a>
           <a href="#Skills">Habilidades</a>
+          <a href="#Blog">Blog</a>
+          <a href="#Portfolio">Portfólio</a>
+          <a href="#Info">Mais Info</a>
+          <a href="#Form">Contato</a>
         </div>
       );
     }

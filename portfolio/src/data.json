@@ -1,7 +1,7 @@
 {
     "name": "Breno Angelotti",
     "picture": "https://avatars2.githubusercontent.com/u/18258467?s=400&u=5d63d64b09dd4c2bc767ab15f9e5db049f64cfa9&v=4",
-    "minibio": "Desenvolvedor de aplicativos móveis na plataforma Xamarin em C#. Estudante do curso de Engenharia de Software, buscando especialização na área de User Experience (UX) e Motion Design. Em conjunto com o meu time, disponibilizamos na Google Play Store cinco aplicativos em 2017",
+    "minibio": "Desenvolvedor de aplicativos móveis na plataforma Xamarin em C#. Estudante do curso de Engenharia de Software, buscando especialização na área de User Experience (UX) e Motion Design",
     "resume": "https://drive.google.com/open?id=1QBljplYznvSfg6qOGCCz9pkXNSwPldGd",
     "details": {
         "interests": ["Mobile Development", "User Experience", "Design de Interação"],
@@ -37,11 +37,22 @@
         ],
         "activities": []
     },
-    "skills": ["Android", "Xamarin", "UX Design"],
+    "skills": ["C#", "JavaScript", "HTML", "CSS", "Android", ".Net", "Xamarin", "UX Design", "Interaction Design", "Motion Design"],
     "blog": [
         {
-            "title": "",
-            "link": ""
+            "title": "Playing With Paths",
+            "description": "Post sobre o uso de paths para definição de animações nativas na plataforma Android",
+            "link": "https://medium.com/androiddevelopers/playing-with-paths-3fbc679a6f77"
+        },
+        {
+            "title": "Playing With Paths",
+            "description": "Post sobre o uso de paths para definição de animações nativas na plataforma Android",
+            "link": "https://medium.com/androiddevelopers/playing-with-paths-3fbc679a6f77"
+        },
+        {
+            "title": "Playing With Paths",
+            "description": "Post sobre o uso de paths para definição de animações nativas na plataforma Android",
+            "link": "https://medium.com/androiddevelopers/playing-with-paths-3fbc679a6f77"
         }
     ],
     "portfolio": [
@@ -50,10 +61,22 @@
             "description": "Hub dos diferentes blogs de conteúdo sobre qualidade publicados pela ForLogic",
             "image": "https://lh3.googleusercontent.com/u6sdTji1f-E-5mGAyhWSCoCcMeBBikAtNp8sn2_pv28by0eXqW_SBLeFXmfsWy7LHw=s180-rw",
             "link": "https://play.google.com/store/apps/details?id=com.forlogic.viverexcelencia"
+        },
+        {
+            "name": "Coletor MyLogical",
+            "description": "Módulo de coleta de dados de calibração de instrumentos e ensaios. Vinculado ao software MyLogical ERP",
+            "image": "https://lh3.googleusercontent.com/SLHuIhooQzmcZ1cfOL2eTvTB90ter36VzCQEF2g9Ff607Zes6OVQWmVLIVdeUK1-D24=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.forlogic.mylogicalcollector"
+        },
+        {
+            "name": "Qualiex Indicators",
+            "description": "Módulo de coleta de dados de indicadores. Vinculado ao software Qualiex",
+            "image": "https://lh3.googleusercontent.com/Bn4xs-Q2SAsP0avwdbfxIdiEf6VyOFPzKgD62ZQGyG9Bq8-y89MAx9nABkpqNTBU5w=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.forlogic.indicators"
         }
     ],
-    "bio": "",
-    "profession": "",
+    "bio": "Lorem ipsum dos grande mesmo, mermão",
+    "carrer": "Lorem ipsum daqueles bem volumoso mesmo",
     "email": "brenogangelotti@gmail.com",
     "github": "https://github.com/BrenoAngelotti",
     "linkedin": "https://www.linkedin.com/in/brenoangelotti/",
