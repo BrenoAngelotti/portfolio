@@ -64,10 +64,12 @@ ul{
 
 .odd{
   background-color: #5e5e5e;
+  color: white;
 }
 
 .even{
   background-color: #aaaaaa;
+  color: black;
 }
 
 textarea {

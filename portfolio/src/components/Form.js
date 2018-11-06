@@ -7,9 +7,9 @@ export class Form extends Component{
     render(){
         var address = "https://formspree.io/" + this.props.data.email;
         return (
-            <div id="Form"  class="section even">
-                <h2  class="col-sm-12 center">Contato</h2>
-                <form action={address} method="POST" class="col-md-6">
+            <div id="Form"  className="section even">
+                <h2  className="col-sm-12 center">Contato</h2>
+                <form action={address} method="POST" className="col-md-6">
                     <div className="elegant-text">
                         <Input label="Nome" name="name" icon="user" group type="text" validate error="wrong" success="right"/>
                         <Input label="Email" name="_replyto" icon="envelope" group type="email" validate error="wrong" success="right"/>

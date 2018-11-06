@@ -17,7 +17,7 @@ class App extends Component {
   render() {
     var data = require('./data.json');
     return (
-      <div class="App">
+      <div className="App">
         <Nav data={data} />
         <Bio data={data} />
         <Skills data={data} />
