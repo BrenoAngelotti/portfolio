@@ -42,23 +42,26 @@
         {
             "title": "Playing With Paths",
             "description": "Post sobre o uso de paths para definição de animações nativas na plataforma Android",
+            "image": "https://cdn-images-1.medium.com/fit/t/800/240/1*uHGhUwxAvufuD_THa7sjAg.gif",
             "link": "https://medium.com/androiddevelopers/playing-with-paths-3fbc679a6f77"
         },
         {
-            "title": "Playing With Paths",
-            "description": "Post sobre o uso de paths para definição de animações nativas na plataforma Android",
-            "link": "https://medium.com/androiddevelopers/playing-with-paths-3fbc679a6f77"
+            "title": "Why Do All Websites Look the Same?",
+            "description": "Estudo sobre a \"mesmice\" nas página web de hoje",
+            "image": "https://cdn-images-1.medium.com/max/2000/0*EH8EjemZXZE4tQwT",
+            "link": "https://medium.com/s/story/on-the-visual-weariness-of-the-web-8af1c969ce73"
         },
         {
-            "title": "Playing With Paths",
-            "description": "Post sobre o uso de paths para definição de animações nativas na plataforma Android",
-            "link": "https://medium.com/androiddevelopers/playing-with-paths-3fbc679a6f77"
+            "title": "Why complexity is essential",
+            "description": "Análise do uso desnecessário do minimalismo, quando muitas vezes o problema não é a quantidade de informações, mas sim sua organização",
+            "image": "https://cdn-images-1.medium.com/max/800/1*gPs0dFs3bQeKDE1OpFlAJQ.png",
+            "link": "https://medium.com/@katarinablind100/why-complexity-is-essential-44ee4437b39a"
         }
     ],
     "portfolio": [
         {
             "name": "Viver Excelência",
-            "description": "Hub dos diferentes blogs de conteúdo sobre qualidade publicados pela ForLogic",
+            "description": "Hub dos diferentes blogs de conteúdo sobre qualidade publicados pelo Grupo ForLogic",
             "image": "https://lh3.googleusercontent.com/u6sdTji1f-E-5mGAyhWSCoCcMeBBikAtNp8sn2_pv28by0eXqW_SBLeFXmfsWy7LHw=s180-rw",
             "link": "https://play.google.com/store/apps/details?id=com.forlogic.viverexcelencia"
         },

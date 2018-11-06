@@ -1,4 +1,4 @@
-.App {
+.center {
   text-align: center;
 }
 
@@ -13,15 +13,17 @@
   justify-content: space-around; 
   font-size: calc(10px + 2vmin);
   color: white;
+  z-index: 99;
 }
 
 .section{
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: row;
   align-items: center;
   flex-wrap: wrap;
   justify-content: space-around;
+  padding: 40px;
 }
 
 .side{
@@ -54,15 +56,6 @@ a:active {
 }
 a:visited {
   color:whitesmoke;
-}
-
-a.button {
-  -webkit-appearance: button;
-  -moz-appearance: button;
-  appearance: button;
-
-  text-decoration: none;
-  color: initial;
 }
 
 ul{

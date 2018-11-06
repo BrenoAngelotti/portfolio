@@ -1,17 +1,21 @@
 import React, { Component } from 'react';
+import { Button, Card, CardBody, CardImage, CardTitle, CardText } from 'mdbreact';
 import './../index.css';
 
 export class Blog extends Component{
     render(){
       return (
-        <div id="Blog" class="section odd">
-            <h2>Blog</h2>
+        <div id="Blog" class="section odd row">
+            <h2 class="col-sm-12 center">Blog</h2>
             {this.props.data.blog.map((b, i) => 
-                <div key={i} class="card">
-                    <h3>{b.title}</h3>
-                    <p>{b.description}</p>
-                    <a href={b.link} target="_blank" class="button">Ver</a>
-                </div>
+                <Card key={i}>
+                    <CardImage className="img-fluid" src={b.image}/>
+                    <CardBody>
+                        <CardTitle>{b.title}</CardTitle>
+                        <CardText>{b.description}</CardText>
+                    </CardBody>
+                    <Button href={b.link} target="_blank" color="elegant">Ver</Button>
+                </Card>
             )}
         </div>
       );

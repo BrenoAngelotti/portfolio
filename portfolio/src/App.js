@@ -9,6 +9,9 @@ import { Portfolio } from './components/Portfolio';
 import { Info } from './components/Info';
 import { Form } from './components/Form';
 import { Footer } from './components/Footer';
+import 'font-awesome/css/font-awesome.min.css';
+import 'bootstrap-css-only/css/bootstrap.min.css'; 
+import 'mdbreact/dist/css/mdb.css';
 
 class App extends Component {
   render() {
