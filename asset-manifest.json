@@ -7,11 +7,11 @@
   "static/js/1.52a2ef56.chunk.js.map": "/portfolio/static/js/1.52a2ef56.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
   "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
-  "static/media/mdb.css": "/portfolio/static/media/Roboto-Bold.e31fcf18.ttf",
-  "static/media/font-awesome.min.css": "/portfolio/static/media/fontawesome-webfont.fee66e71.woff",
-  "static/css/1.24d4688f.chunk.css.map": "/portfolio/static/css/1.24d4688f.chunk.css.map",
+  "static/media/mdb.css": "/portfolio/static/media/arrow_right.8ef6a08c.svg",
+  "static/media/font-awesome.min.css": "/portfolio/static/media/fontawesome-webfont.af7ae505.woff2",
   "static/css/main.bab86116.chunk.css.map": "/portfolio/static/css/main.bab86116.chunk.css.map",
+  "static/css/1.24d4688f.chunk.css.map": "/portfolio/static/css/1.24d4688f.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.65a74977fe16b90eb65c5fed9d20b615.js": "/portfolio/precache-manifest.65a74977fe16b90eb65c5fed9d20b615.js",
+  "precache-manifest.4bcff3af42644aed7ee021e3ab3c29b8.js": "/portfolio/precache-manifest.4bcff3af42644aed7ee021e3ab3c29b8.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
