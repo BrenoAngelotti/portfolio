@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Button, Card, CardBody, CardImage, CardTitle, CardText } from 'mdbreact';
+import { Button } from 'mdbreact';
 import './../index.css';
 
 export class Bio extends Component{
@@ -8,7 +8,7 @@ export class Bio extends Component{
         <div id="Bio" className="section odd row">
           <div className="center col-md-6 col-sm-12">
             <h2>{this.props.data.name}</h2>
-            <img src={this.props.data.picture} className="profile-picture"/>
+            <img src={this.props.data.picture} className="profile-picture" alt={"foto de " + this.props.data.name}/>
             <p>{this.props.data.minibio}</p>
             <Button href={this.props.data.resume} target="_blank" color="elegant">Baixar Currículo</Button>
           </div>
