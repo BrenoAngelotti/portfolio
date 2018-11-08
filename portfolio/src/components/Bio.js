@@ -6,12 +6,12 @@ export class Bio extends Component{
     render(){
       return (
         <div id="Bio" className="section odd row">
-          <div className="center col-md-4 col-sm-10">
+          <div className="center col-xs-10 col-sm-10 col-md-4">
             <h1 className="profile-name">{this.props.data.name}</h1>
             <img src={this.props.data.picture} className="profile-picture" alt={"foto de " + this.props.data.name}/>
             <p style={{fontSize: 20}}>{this.props.data.minibio}</p>
           </div>
-          <div className="col-md-3 col-sm-10">
+          <div className="col-xs-10 col-sm-10 col-md-3">
             <div>
               <h3>Intereresses</h3>
               <ul>
