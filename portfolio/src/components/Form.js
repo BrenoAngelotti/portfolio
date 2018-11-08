@@ -9,7 +9,7 @@ export class Form extends Component{
         return (
             <div id="Form"  className="section even row">
                 <h2  className="col-sm-12 center">Contato</h2>
-                <Card className="col-sm-10 col-md-6">
+                <Card className="col-sm-10 col-md-8 col-lg-6">
                     <CardBody>
                         <CardTitle>Deixe sua mensagem</CardTitle>
                         <form action={address} method="POST">
