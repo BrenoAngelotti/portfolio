@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Input, Button, Card, CardBody, CardTitle } from 'mdbreact';
-
 import './../index.css';
 
 export class Form extends Component{
