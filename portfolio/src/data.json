@@ -76,6 +76,30 @@
             "description": "Módulo de coleta de dados de indicadores. Vinculado ao software Qualiex",
             "image": "https://lh3.googleusercontent.com/Bn4xs-Q2SAsP0avwdbfxIdiEf6VyOFPzKgD62ZQGyG9Bq8-y89MAx9nABkpqNTBU5w=s180-rw",
             "link": "https://play.google.com/store/apps/details?id=com.forlogic.indicators"
+        },
+        {
+            "name": "Qualiex Tracker",
+            "description": "Módulo de cadastro de não conformidades. Vinculado ao software Qualiex",
+            "image": "https://lh3.googleusercontent.com/os4xF1oysXiI_feDp5YRHKt6CfgJbl_BVq6BdDv22sOnAKToNivr2P2ah-Wn8w6dKn8=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.forlogic.tracker"
+        },
+        {
+            "name": "Qualiex Audit",
+            "description": "Módulo de realização de auditorias. Vinculado ao software Qualiex",
+            "image": "https://lh3.googleusercontent.com/kjZZDr1caUwBya4lsMz8YuXUzJ8ZtiuTPI6WbSxuuMDnLlbnwhA_bM_6VLJGaxy5Nvc=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.forlogic.audit2"
+        },
+        {
+            "name": "Qualiex Tasks",
+            "description": "Módulo de gerenciamento de tarefas. Vinculado ao software Qualiex",
+            "image": "https://lh3.googleusercontent.com/w-PT1YrPQMn0bTwIK7NVCEjjPEKBzHRt3zg9EvNXg3INL2JWpMO2bb-FIMk4MkAWAOc=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.forlogic.tasks"
+        },
+        {
+            "name": "SuecApp",
+            "description": "SuecApp é um jogo de bebida baseado no popular jogo de Sueca",
+            "image": "https://lh3.googleusercontent.com/tAHFk1_9pP7IJblcOtviUdKp9W999UcgBLh6unrOXM8VmDbmLmqhsTX5kBqCb7QK82ZA=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com..angelotti.suecapp"
         }
     ],
     "bio": "Lorem ipsum dos grande mesmo, mermão",

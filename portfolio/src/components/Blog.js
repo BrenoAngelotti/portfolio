@@ -11,7 +11,7 @@ export class Blog extends Component{
                 <Card key={i}>
                     <CardImage className="img-fluid" src={b.image}/>
                     <CardBody>
-                        <CardTitle>{b.title}</CardTitle>
+                        <CardTitle color="gray">{b.title}</CardTitle>
                         <CardText>{b.description}</CardText>
                     </CardBody>
                     <Button href={b.link} target="_blank" color="elegant">Ver</Button>
