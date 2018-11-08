@@ -12,6 +12,7 @@ export class Blog extends Component{
                     <CardImage className="img-fluid" src={b.image}/>
                     <CardBody>
                         <CardTitle color="gray">{b.title}</CardTitle>
+                        <CardText>por {b.author}</CardText>
                         <CardText>{b.description}</CardText>
                     </CardBody>
                     <Button href={b.link} target="_blank" color="elegant">Ver</Button>

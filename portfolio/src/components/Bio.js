@@ -9,8 +9,7 @@ export class Bio extends Component{
           <div className="center col-md-4 col-sm-10">
             <h1 className="profile-name">{this.props.data.name}</h1>
             <img src={this.props.data.picture} className="profile-picture" alt={"foto de " + this.props.data.name}/>
-            <p>{this.props.data.minibio}</p>
-            <Button href={this.props.data.resume} target="_blank" color="elegant">Baixar Currículo</Button>
+            <p style={{fontSize: 20}}>{this.props.data.minibio}</p>
           </div>
           <div className="col-md-3 col-sm-10">
             <div>
@@ -31,6 +30,9 @@ export class Bio extends Component{
                 {this.props.data.details.education.map((e, i) => <li key={i}>{e.title} ({e.status})<br/>{e.place}, {e.date}</li>)}
               </ul>
             </div>
+          </div>
+          <div className="col-md-12 col-sm-10 center">
+            <Button style={{margin: 20}} href={this.props.data.resume} target="_blank" color="elegant">Currículo completo</Button>
           </div>
         </div>
       );

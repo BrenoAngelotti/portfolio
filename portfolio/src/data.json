@@ -41,18 +41,21 @@
     "blog": [
         {
             "title": "Playing With Paths",
+            "author": "Nick Butcher",
             "description": "Post sobre o uso de paths para definição de animações nativas na plataforma Android",
             "image": "https://cdn-images-1.medium.com/fit/t/800/240/1*uHGhUwxAvufuD_THa7sjAg.gif",
             "link": "https://medium.com/androiddevelopers/playing-with-paths-3fbc679a6f77"
         },
         {
             "title": "Why Do All Websites Look the Same?",
+            "author": "Boris Müller",
             "description": "Estudo sobre a \"mesmice\" nas página web de hoje",
             "image": "https://cdn-images-1.medium.com/max/2000/0*EH8EjemZXZE4tQwT",
             "link": "https://medium.com/s/story/on-the-visual-weariness-of-the-web-8af1c969ce73"
         },
         {
             "title": "Why complexity is essential",
+            "author": "Katarina Blind",
             "description": "Análise do uso desnecessário do minimalismo, quando muitas vezes o problema não é a quantidade de informações, mas sim sua organização",
             "image": "https://cdn-images-1.medium.com/max/800/1*gPs0dFs3bQeKDE1OpFlAJQ.png",
             "link": "https://medium.com/@katarinablind100/why-complexity-is-essential-44ee4437b39a"
@@ -102,7 +105,7 @@
             "link": "https://play.google.com/store/apps/details?id=com..angelotti.suecapp"
         }
     ],
-    "bio": " ",
+    "bio": "Após passar 1 ano morando nos EUA, voltei ao Brasil e me formei em Técnico de Informática pelo Centro Paula Souza em 2011. Cursei 3 anos de Engenharia Elétrica na UTFPR e na UFSCar. Durante esse curso peguei gosto pela gestão de pessoas e projetos, mas elétrica não era bem a minha praia. Decidi voltar para a área da computação com o curso de Engenharia de Software e me encontrei no universo mobile e de user experience, áreas com as quais trabalho hoje.",
     "carrer": "Fiz muito \"bico\" e freelance nessa vida antes de conseguir um estágio maneiro de treinamento no Grupo ForLogic, onde finalmente pude colocar minhas habilidades à prova. Depois disso fui fazer parte do time de mobile, onde coloco em prática meus estudos na área de UX. Hoje comando o time de usabilidade da empresa como um projeto secundário (por enquanto). Quem sabe logo mais eu não coloco um \"UX Designer\" no LinkedIn 😉",
     "email": "brenogangelotti@gmail.com",
     "github": "https://github.com/BrenoAngelotti",
