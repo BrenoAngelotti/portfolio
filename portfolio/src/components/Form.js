@@ -11,9 +11,9 @@ export class Form extends Component{
                 <h2  className="col-sm-12 center">Contato</h2>
                 <form action={address} method="POST" className="col-md-6">
                     <div className="elegant-text">
-                        <Input label="Nome" name="name" icon="user" group type="text" validate error="wrong" success="right"/>
-                        <Input label="Email" name="_replyto" icon="envelope" group type="email" validate error="wrong" success="right"/>
-                        <Input type="textarea" name="message" rows="3" label="Mensagem" icon="pencil"/>
+                        <Input label="Nome" name="name" icon="user" group type="text" validate error="wrong" success="right" required/>
+                        <Input label="Email" name="_replyto" icon="envelope" group type="email" validate error="wrong" success="right" required/>
+                        <Input type="textarea" name="message" rows="3" label="Mensagem" icon="pencil" required/>
                     </div>
                     <div className="text-center">
                         <Button color="elegant" type="submit">Enviar</Button>

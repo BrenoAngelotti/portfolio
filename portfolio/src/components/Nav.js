@@ -30,22 +30,22 @@ onClick(){
             <Collapse isOpen = { this.state.collapse } navbar>
                 <NavbarNav>
                   <NavItem>
-                      <NavLink className="nav-link" to="#Bio">Home</NavLink>
+                        <a className="nav-link" href="#Bio">Home</a>               
                   </NavItem>
                   <NavItem>
-                      <NavLink className="nav-link" to="#Skills">Habilidades</NavLink>
+                      <a className="nav-link" href="#Skills">Habilidades</a>
                   </NavItem>
                   <NavItem>
-                      <NavLink className="nav-link" to="#Blog">Blog</NavLink>
+                      <a className="nav-link" href="#Blog">Blog</a>
                   </NavItem>
                   <NavItem>
-                      <NavLink className="nav-link" to="#Portfolio">Portfólio</NavLink>
+                      <a className="nav-link" href="#Portfolio">Portfólio</a>
                   </NavItem>
                   <NavItem>
-                      <NavLink className="nav-link" to="#Info">Mais</NavLink>
+                      <a className="nav-link" href="#Info">Mais</a>
                   </NavItem>
                   <NavItem>
-                      <NavLink className="nav-link" to="#Form">Contato</NavLink>
+                      <a className="nav-link" href="#Form">Contato</a>
                   </NavItem>
                 </NavbarNav>
             </Collapse>

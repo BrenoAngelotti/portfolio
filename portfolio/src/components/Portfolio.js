@@ -9,7 +9,7 @@ export class Portfolio extends Component{
         <div id="Portfolio" className="section even">
             <h2  className="col-sm-12 center">Portfólio</h2>
             {this.props.data.portfolio.map((p, i) =>
-                <Card key={i}>
+                <Card key={i} className="child">
                     <CardImage className="mx-auto d-block" src={p.image} />
                     <CardBody>
                         <CardTitle>{p.name}</CardTitle>

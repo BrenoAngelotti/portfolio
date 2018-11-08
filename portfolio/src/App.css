@@ -1,3 +1,9 @@
+.App{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 .center {
   text-align: center;
 }
@@ -19,11 +25,10 @@
 .section{
   min-height: 100vh;
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   align-items: center;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  padding: 40px;
+  justify-content: space-evenly;
+  padding: 40px 0;
 }
 
 .side{
@@ -37,14 +42,37 @@
 
 .card {
   margin: 20px;
-  padding: 10px;
   max-width: 300px;
+  color: #2e2e2e;
 }
 
 .profile-picture{
   max-width: 250px;
   max-width: 250px;
   border-radius: 50%;
+  margin: 20px;
+}
+
+.profile-name{
+  margin: 50px 0 0 0;
+}
+
+ul{
+  padding: 0px;
+}
+
+h3{
+  margin-top: 20px;
+}
+
+.skill{
+  text-decoration: none;
+  border: #2e2e2e 1px solid;
+  border-radius: 3px;
+  margin: 5px;
+  list-style-type: none;
+  padding: 3px;
+  text-align: center;
 }
 
 a {
@@ -57,6 +85,10 @@ a:active {
 a:visited {
   color:whitesmoke;
 }
+a:hover{
+  color: whitesmoke;
+  text-decoration: underline;
+}
 
 ul{
   text-align: left;
@@ -65,10 +97,6 @@ ul{
 .odd{
   background-color: #5e5e5e;
   color: white;
-}
-
-.card{
-  color: #2e2e2e; 
 }
 
 .even{
