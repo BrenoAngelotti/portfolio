@@ -1,17 +1,17 @@
 {
   "main.css": "/portfolio/static/css/main.f0cbc0da.chunk.css",
-  "main.js": "/portfolio/static/js/main.6718dc32.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.6718dc32.chunk.js.map",
+  "main.js": "/portfolio/static/js/main.fd46c880.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.fd46c880.chunk.js.map",
   "static/css/1.24d4688f.chunk.css": "/portfolio/static/css/1.24d4688f.chunk.css",
   "static/js/1.579c7fbc.chunk.js": "/portfolio/static/js/1.579c7fbc.chunk.js",
   "static/js/1.579c7fbc.chunk.js.map": "/portfolio/static/js/1.579c7fbc.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
   "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
-  "static/media/mdb.css": "/portfolio/static/media/arrow_right.8ef6a08c.svg",
-  "static/media/font-awesome.min.css": "/portfolio/static/media/fontawesome-webfont.fee66e71.woff",
-  "static/css/1.24d4688f.chunk.css.map": "/portfolio/static/css/1.24d4688f.chunk.css.map",
+  "static/media/mdb.css": "/portfolio/static/media/Roboto-Bold.e31fcf18.ttf",
+  "static/media/font-awesome.min.css": "/portfolio/static/media/fontawesome-webfont.674f50d2.eot",
   "static/css/main.f0cbc0da.chunk.css.map": "/portfolio/static/css/main.f0cbc0da.chunk.css.map",
+  "static/css/1.24d4688f.chunk.css.map": "/portfolio/static/css/1.24d4688f.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.179aa94bf2f7c7f2a344cd635dd95b38.js": "/portfolio/precache-manifest.179aa94bf2f7c7f2a344cd635dd95b38.js",
+  "precache-manifest.f81a5d457957afe2a6d87d91e1d47dca.js": "/portfolio/precache-manifest.f81a5d457957afe2a6d87d91e1d47dca.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
